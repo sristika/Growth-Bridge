@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836990755349",
+    "project_id": "growthbridge-31925",
+    "storage_bucket": "growthbridge-31925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836990755349:android:740362549a88b86a28641c",
+        "android_client_info": {
+          "package_name": "com.example.pro_hive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836990755349-8ljv4lc9gtr17s0f2k50a08j92qeeo91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5nvwK2rIcHakXl6dP8GCRONX23qtJWek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836990755349-8ljv4lc9gtr17s0f2k50a08j92qeeo91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Pro_Hive</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="country_prompt">Select Country</string>
+
+<!--    <string-array name="country_names">-->
+<!--        <item>Select country</item>-->
+<!--        <item>USA</item>-->
+<!--        <item>Canada</item>-->
+<!--        <item>United Kingdom</item>-->
+<!--        <item>France</item>-->
+<!--        <item>Germany</item>-->
+<!--        <item>Spain</item>-->
+<!--        <item>Italy</item>-->
+<!--        <item>Japan</item>-->
+<!--        <item>Australia</item>-->
+<!--        <item>South Africa</item>-->
+<!--    </string-array>-->
+
+    <string-array name="job_types">
+        <item>Select</item>
+        <item>Software Engineer</item>
+        <item>Data Scientist</item>
+        <item>Product Manager</item>
+        <item>UI/UX Designer</item>
+        <item>Network Administrator</item>
+        <item>Database Administrator</item>
+        <item>IT Support Specialist</item>
+        <item>Security Analyst</item>
+        <item>Technical Writer</item>
+        <item>Systems Analyst</item>
+    </string-array>
+    <string name="profilePicture">profile picture</string>
+    <string name="messageProfile">Message</string>
+    <string name="nameLabel">Name</string>
+    <string name="enterName">Enter Name</string>
+    <string name="countryLabel">Country</string>
+    <string name="enterCountry">Enter Country</string>
+    <string name="title_label">Job Title</string>
+    <string name="field_label">Field</string>
+    <string name="editfield">Enter Field</string>
+    <string name="enterTitle">Enter Title</string>
+    <string name="editProfile">Enter Description (enter education, experience here)</string>
+    <string name="editSkills">Enter Skills</string>
+    <string name="editBtn">Edit profile</string>
+    <string name="message">Message</string>
+    <string name="view_profile">View Profile</string>
+    <string name="information_technology">Information Technology</string>
+    <string name="software_engineer">Software Engineer</string>
+    <string name="united_states_of_america">United States of America</string>
+    <string name="john_doe">John Doe</string>
+    <string name="view">View profile</string>
+    <string name="vanture_capitalist">Venture Capitalist</string>
+    <string name="editProfilePicture">Change profile picture</string>
+    <string name="choose_file_button_text">Browse from device</string>
+    <string name="take_photo_button_text">Click photo</string>
+    <string name="remove_photo_button_text">Remove current photo</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="interestedFields">Interested fields</string>
+    <string name="description">Enter Description</string>
+    <string name="Done">Done</string>
+    <string name="logOut">Log out</string>
+    <string name="search">Search User</string>
+    <string name="createGroupChat">Create Group Chat</string>
+    <string name="firstName">Enter First Name</string>
+    <string name="lastName">Enter Last Name</string>
+    <string name="enterPhone">Enter Phone no.</string>
+
+    <string name="flip_camera">Switch Camera</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="take_photo">Take Photo</string>
+</resources>

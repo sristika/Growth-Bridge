@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/vc_home"
+        android:icon="@drawable/baseline_home_24"/>
+    <item android:title="Chat"
+        android:id="@+id/vc_chat"
+        android:icon="@drawable/baseline_chat_24"/>
+    <item android:title="View Post"
+        android:id="@+id/vc_view_post"
+        android:icon="@drawable/baseline_note_24"/>
+    <item android:title="Create Post"
+        android:id="@+id/vc_create_post"
+        android:icon="@drawable/baseline_create_24"/>
+    <item android:title="Profile"
+        android:id="@+id/vc_profile"
+        android:icon="@drawable/baseline_person_24"/>
+</menu>
